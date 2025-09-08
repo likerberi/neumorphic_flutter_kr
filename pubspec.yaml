@@ -2,8 +2,9 @@
 
 name: neumorphic_flutter_kr
 description: "뉴로모픽(Neumorphic) 스타일 위젯을 쉽게 사용할 수 있는 한글 친화 Flutter 패키지 · 한글 샘플/실시간 코드 생성 제공"
-version: 0.1.0-dev
-homepage: https://pub.dev/packages/neumorphic_flutter_kr
+version: 0.1.1-dev
+homepage: https://github.com/likerberi/neumorphic_flutter_kr
+repository: https://github.com/likerberi/neumorphic_flutter_kr
 
 environment:
   sdk: '>=3.3.0 <4.0.0'

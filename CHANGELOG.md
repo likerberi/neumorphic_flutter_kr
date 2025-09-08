@@ -9,6 +9,10 @@
 - README 한글 정리, 배지/요약 추가
 - example README 한국어 정리
 
+## [0.1.1-dev] - 2025-09-08
+### Changed
+- pubspec 메타데이터 갱신(homepage/repository → likerberi/neumorphic_flutter_kr)
+
 ## [0.1.0-dev] - 2025-09-08
 ### Changed
 - 패키지 설명 강화(한글 샘플/코드 생성 언급), topics 보강
